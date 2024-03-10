@@ -1,0 +1,16 @@
+@import "./variables";
+
+.header{
+    text-align: center;
+    background-color: $creme;
+    padding: 2rem;
+    h1{
+        font-size: 70px;
+        box-shadow: 3px 3px 3px;
+        padding: 1rem;
+    }
+    h2{
+        padding: 1rem;
+    }
+
+}

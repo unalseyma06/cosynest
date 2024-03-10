@@ -1,0 +1,17 @@
+@import "./variables";
+
+.navbar{
+    background-color: $lightPink;
+    display:flex;
+    text-align: center;
+    justify-content:space-evenly;
+    font-size:x-large;
+    font-weight: 600;
+    a{
+    text-decoration: none;
+    padding: 1rem;
+    box-shadow: 2px 2px 3px;
+
+    }
+
+}
